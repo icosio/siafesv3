@@ -1,2 +1,3 @@
 reglas
 modificacion logal
+modificacion remota
